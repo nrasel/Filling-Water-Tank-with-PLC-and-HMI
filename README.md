@@ -51,12 +51,14 @@ The system follows a simple **two-point control sequence**:
 
 ---
 
+
+
 🚀 How to Run  
 
-```bash
-# Clone the repository
-git clone https://github.com/nrasel/Filling-Water-Tank-with-PLC-and-HMI.git
-cd Filling-Water-Tank-with-PLC-and-HMI
+  # Clone the repository
+    git clone https://github.com/nrasel/Filling-Water-Tank-with-PLC-and-HMI.git
+    cd Filling-Water-Tank-with-PLC-and-HMI
 
 ## 📷 Project View
 ![Traffic Light Interface](https://github.com/nrasel/Filling-Water-Tank-with-PLC-and-HMI/blob/5f79fab69f99fdd8663d53bed441ae2cabd0044e/Filling%20Water%20Tank.PNG)
+
