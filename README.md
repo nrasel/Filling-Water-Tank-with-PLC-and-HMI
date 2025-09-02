@@ -1,4 +1,5 @@
 🚰 Filling Water Tank using Siemens S7-1500 PLC & TP700 HMI
+
 📌 Project Overview  
 This project demonstrates a **Filling Water Tank ** implemented using a Siemens **S7-1500 PLC (CPU 1515-2 PN)** and a **TP700 Comfort HMI panel**.  
 
